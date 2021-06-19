@@ -9,7 +9,7 @@ def hello_world():
 
 @app.route('/about')
 def about():
-    return "We're CST Developers from MCIT"
+    return "hello, this is Imran - CST Developers from MCIT"
 
 @app.route('/careers')
 def careers():
